@@ -16,25 +16,6 @@ Enhance your Anki study sessions with calming background sounds like gentle rain
 * **Customizable Sounds:** Easily add your own sound files to personalize your auditory experience.
 * **Qt Multimedia:** Uses Anki's built-in Qt libraries for reliable sound playback without extra dependencies like Pygame.
 
-## Screenshots
-
-*(As this is an audio-based add-on, visual screenshots are minimal. The primary interface is through Anki's menu.)*
-
-The add-on adds a new menu under **Tools > Ambient Soundscapes**:
-Tools
-└── Ambient Soundscapes
-├── Enable Ambient Sound  (Checkbox)
-├── --------------------- (Separator)
-├── Select Sound
-│   ├── Light Rain        (Radio button style)
-│   └── Summer Insects    (Radio button style)
-│   └── (Your other sounds here)
-├── --------------------- (Separator)
-└── Volume
-├── Mute              (Radio button style)
-├── Low               (Radio button style)
-├── Medium            (Radio button style)
-└── High              (Radio button style)
 ## Usage
 
 1.  **Installation:**
