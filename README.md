@@ -142,6 +142,6 @@ The `config.json` stores:
 
 * **Author:** Created by @paerontran.
 * **Concept:** Based on user request for ambient background sounds in Anki.
-* **License:** This add-on is provided as-is. You are free to use, modify, and distribute it. If you use sounds from external sources, ensure you comply with their respective licenses.
+* **License:** This add-on is provided as-is. You are free to use and modify it. If you use sounds from external sources, ensure you comply with their respective licenses.
 
 ---
