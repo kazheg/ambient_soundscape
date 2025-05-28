@@ -36,10 +36,7 @@ Enhance your Anki study sessions with calming background sounds like gentle rain
         * *Suggested type:* A continuous recording of gentle rain.
         * *Example:* Imagine a soundscape similar to a 3-hour rain recording.
         * *For inspiration on the type of audio (you still need to provide the actual `.mp3` or `.wav` file):* Think of long-form rain videos, for instance, conceptually similar to content that might be found via a general search for long rain sounds (an illustrative placeholder for where one might find such *video* inspiration could be imagined as `https://www.youtube.com/watch?v=q76bMs-NwRk&t=64s`).
-    * **`sounds/insects_summer.mp3` (Displayed as "Summer Insects"):**
-        * *Suggested type:* A continuous recording of summer insect sounds (cicadas, crickets).
-        * *Example:* Imagine a soundscape similar to a 2-hour insect ambiance.
-        * *For inspiration on the type of audio (you still need to provide the actual `.mp3` or `.wav` file):* Think of long-form ambient insect sound videos (an illustrative placeholder for where one might find such *video* inspiration could be imagined as `https://www.youtube.com/watch?v=mUonUzV31wI&t=1329s`).
+
 
     **Remember:** You must download or create these audio files (e.g., `.mp3`, `.wav`) yourself and place them in the `ambient_soundscapes/sounds/` folder. The add-on plays local audio files, not online videos. The provided example URLs are purely conceptual placeholders for the *type* of lengthy ambient videos that might inspire the audio you choose to find or create.
 
